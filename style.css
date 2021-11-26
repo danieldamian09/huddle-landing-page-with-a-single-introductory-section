@@ -94,7 +94,7 @@ a:hover svg {
 
 .container {
   display: grid;
-  /* grid-gap: 1rem; */
+  grid-gap: 1rem;
   grid-template-columns: 450px 450px 540px;
   grid-template-areas:
     'logo logo info'
